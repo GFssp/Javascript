@@ -1,0 +1,5 @@
+[+] - USED
+
+- push() -- Add values to the array
+- pop() -- remove the last value of the array
+- shift() -- breaks the array between the first item and the rest
